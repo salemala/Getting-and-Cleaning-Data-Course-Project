@@ -39,7 +39,7 @@ The data set is downloaded then unziped. The test data and train data are merged
 Only columns relative to mean and standard deviation are kept. Descriptive names are placed on the data set.
 An independent data set with averages by subject and activity are created and outputed to a text file.
 
-Full description at: 
+Full description at: https://github.com/salemala/Getting-and-Cleaning-Data-Course-Project/blob/master/README.md
 
 ##Description of the variables in the tiny_data.txt file
  - Dimensions of the dataset: 180 rows (subject x activity) 88 columns (subject, activity, 86 variables)
